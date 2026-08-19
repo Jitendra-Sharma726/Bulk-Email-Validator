@@ -1,0 +1,9 @@
+admin@codechef.com
+test@gmail.com
+support@github.com
+invalid-email-format
+missing@domain
+@nouname.com
+spaces in@domain.com
+hello@thisdomaindoesnotexist12345.com
+fakeuser@baddomain-test-999.org
