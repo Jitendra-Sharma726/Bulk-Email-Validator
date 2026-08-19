@@ -1,0 +1,13 @@
+Email, SyntaxValid, MXValid, Deliverable
+invalid-email-format, false, false, false
+@nouname.com, false, false, false
+missing@domain, false, false, false
+spaces in@domain.com, false, false, false
+test@gmail.com, true, true, true
+support@github.com, true, true, true
+admin@codechef.com,true, true, true
+fakeuser@baddomain-test-999.org, true, false, false
+hello@thisdomaindoesnotexist12345.com, true, false,false   
+
+
+  
